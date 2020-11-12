@@ -1,0 +1,23 @@
+{
+  "name": "checks",
+  "version": "1.0.0",
+  "description": "Created with CodeSandbox",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalita-Roman/Checks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalita-Roman/Checks/issues"
+  },
+  "homepage": "https://github.com/Kalita-Roman/Checks#readme",
+  "dependencies": {
+    "nodemon": "2.0.6"
+  }
+}
