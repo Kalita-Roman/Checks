@@ -1,4 +1,8 @@
 var http = require("http");
+import run from './app';
+
+run();
+
 
 //create a server object:
 http
